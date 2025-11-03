@@ -9,7 +9,7 @@ Una aplicación web para organizar sorteos de regalos entre amigos (intercambio 
 - ✅ **Sistema de Privacidad**: Cada participante solo ve su propia asignación
 - ✅ **Acceso por Código**: Los participantes se unen con código de 6 dígitos
 - ✅ **Host Participante**: El organizador puede participar en el sorteo
-- 🚧 **Nivel 3 (Sugerencias)**: Subir ideas de regalos con fotos (próximamente)
+- ✅ **Sugerencias de Regalos**: Subir ideas de regalos con fotos
 - 🚧 **Nivel 4 (Historial)**: Historial de sorteos (próximamente)
 
 ## 🛠️ Stack Tecnológico
